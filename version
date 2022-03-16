@@ -1,4 +1,4 @@
 version=1.0;
 build=10;
 update=https://raw.githubusercontent.com/Glade412/radmirBinder/main/version;
-changelog=https://raw.githubusercontent.com/Glade412/radmirBinder/main/version;
+changelog=https://raw.githubusercontent.com/Glade412/radmirBinder/main/Changelogs/changelog10;
