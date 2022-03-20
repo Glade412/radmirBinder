@@ -3,3 +3,4 @@ build=10;
 update=https://github.com/Glade412/radmirBinder/raw/main/TestHotkey.exe;
 changelog=https://raw.githubusercontent.com/Glade412/radmirBinder/main/Changelogs/changelog10;
 active_versions=9,10,11,;
+RB_HelperInstall=https://github.com/Glade412/radmirBinder/raw/main/RB_helperinstall.exe;
